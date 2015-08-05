@@ -7,7 +7,7 @@ Usage instrutions
 
 2. Open the project using android studio
 
-3. Go into drawable folder and replace jennifer_lopez.jpg with your image
+3. Go into drawable folder and replace pic.jpg with your image
 
 4. Run the project 
 
